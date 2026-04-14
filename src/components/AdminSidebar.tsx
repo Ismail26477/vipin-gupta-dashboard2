@@ -66,7 +66,7 @@ export function AdminSidebar() {
           </div>
           <div className="flex flex-col">
             <span className="text-sm font-bold text-sidebar-accent-foreground tracking-tight">
-              LugAdmin
+              Vipin Gupta
             </span>
             <span className="text-xs text-sidebar-foreground">
               Dashboard
